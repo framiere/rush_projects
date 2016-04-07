@@ -1,0 +1,34 @@
+## rush_projects ##
+
+Rushs are Epitech sessions where we have to make a project in a week-end with a 2 peoples team.
+
+Here, two rush project are introduced.
+
+## sudoki-bi ##
+
+TEAM:
+rigaud_b
+bonett_w
+
+PROJECT:
+Make the fastest sudoku solver possible.
+
+USAGE:
+An exemple file is in sudoki-bi/ressources to show you map format.
+sudoki-bi read maps in stdin and display resolved maps in stdout, so you can test it with './bin/sudoki-bi < ./ressources/worstcase'.
+
+BONUS:
+ncurses interface (so you have to install it) where you can play to sudoku and have a backtracking-demonstration.
+
+USAGE:
+The bonus' binary don't take args.
+
+## tar ##
+
+TEAM:
+bouama_r
+rigaud_b
+
+PROJECT:
+Recreate a software who work the most possible like tar.
+Our binary can archive and unarchive file and directory, conserving right, and taking xcvftp tar options.
